@@ -1,6 +1,8 @@
 # NEXORA
 
-## Intelligence for a Higher Tomorrow
+> **Intelligence for a Higher Tomorrow.**
+
+![NEXORA — Intelligence for a Higher Tomorrow](./nexora-logo.png)
 
 NEXORA is an independent project exploring the next layer of intelligent technology, onchain systems, and community-driven innovation.
 
